@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "compileCommands": [
+                "${workspaceFolder}/build/compile_commands.json"
+            ],
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++20",
+            "includePath": [
+                "${default}",
+                "C:/Users/imadc/esp/v6.1/esp-idf/components/esp_common/include",
+                "C:/Users/imadc/esp/v6.1/esp-idf/components/esp_driver_i2c/include",
+                "C:/Users/imadc/esp/v6.1/esp-idf/components/soc/esp32c6/include"
+            ]
+        }
+    ],
+    "version": 4
+}
